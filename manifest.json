@@ -2,14 +2,15 @@
   "manifest_version": 2,
 
   "name": "CrawlNSpellCheck",
-  "description": "This extension will crawl through pages and check spellings and suggest corrections",
+  "description": "This extension will crawl through pages and check typos and suggest corrections",
   "version": "1.0",
 
   "browser_action": {
    "default_icon": "icon.png",
    "default_popup": "popup.html"
   },
+
   "permissions": [
-   "activeTab"
+    "tabs"
    ]
 }
