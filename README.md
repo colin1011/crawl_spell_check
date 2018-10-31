@@ -9,4 +9,4 @@ Crawls the webpage based on counter and time; checks spellings and suggests corr
 4) Click on load unpacked extensions and add this repository.
 
 #Usage :
-Click on the extension ico and press crawl to crawl pages.
+Click on the extension icon and press crawl to crawl pages.
